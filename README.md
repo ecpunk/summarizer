@@ -1,6 +1,6 @@
 # Summarizer
 
-Summarizer is a Python script that allows you to quickly summarize meeting notes or any other type of text using state-of-the-art natural language processing models. It provides both a command-line interface (CLI) and a simple text-based menu for interaction.
+Summarizer is a Python script that allows you to quickly summarize meeting notes or any other type of text using natural language processing models. It provides both a command-line interface (CLI) and a simple text-based menu for interaction.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -12,7 +12,7 @@ Summarizer is a Python script that allows you to quickly summarize meeting notes
 7. [License](#license)
 
 ## Introduction
-Summarizer simplifies the process of summarizing lengthy texts such as meeting minutes, project reports, or articles. It leverages powerful transformer-based models from the Hugging Face `transformers` library to generate concise summaries.
+Summarizer simplifies the process of summarizing lengthy texts such as meeting minutes, project reports, or articles. It leverages transformer-based models from the Hugging Face `transformers` library to generate concise summaries.
 
 ## Features
 - Summarize meeting notes or any text quickly and efficiently.
